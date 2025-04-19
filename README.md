@@ -1,4 +1,4 @@
-# 🌍 COVID-19 Data Exploration using Microsoft SQL Server
+# 🌍 COVID-19 Data Exploration using SQL Server
 
 This project aims to perform a data exploration analysis using **Microsoft SQL Server** with public data from the [Our World in Data](https://ourworldindata.org/covid-deaths) project, which tracks the global impact of the COVID-19 pandemic.
 
