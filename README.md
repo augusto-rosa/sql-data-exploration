@@ -13,13 +13,13 @@ Explore and analyze global COVID-19 data to identify meaningful patterns, trends
 - Percentage of the population infected and vaccinated per country
 - Relationship between vaccination rates, case numbers, and mortality
 - Comparative analysis of the most affected countries
-- Data consolidation using **views**, **temporary tables**, and **CTEs** for future visualizations and reporting
+- Data consolidation using **Views**, **Temporary Tables**, and **CTEs** for future visualizations and reporting
   
 ---
 
 ## 🧩 Tools and Technologies
 
-- **Microsoft SQL Server 2019+**
+- **Microsoft SQL Server**
 - **SQL Server Management Studio (SSMS)**
 - **CSV file** (Source: Our World in Data)
 - **Git for version control**
