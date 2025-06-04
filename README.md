@@ -42,7 +42,7 @@ This project also gave me the opportunity to work with Microsoft SQL Server in a
 - **Git for version control**
 
 ## ✅ Conclusion and Learnings
-By completing this project, I gained several valuable insights:
+🎓 By completing this project, I gained several valuable insights:
 
 **Mastery of SQL for exploratory analysis**: I improved my ability to write complex queries, including joins, subqueries, and aggregate functions.
 
